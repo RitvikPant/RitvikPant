@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @RitvikPant
 - 🌱 I’m currently practicing Machine learning
-- 💞️ I’m looking to collaborate on Machine Learning projects
+- 🤝 I’m looking to collaborate on Machine Learning projects
 - 📫 How to reach me rohitpant991040@gmail.com
 
 <!---
